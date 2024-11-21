@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tourist-web2/static/css/main.462f823f.css",
-    "main.js": "/tourist-web2/static/js/main.af8ab86f.js",
+    "main.css": "/tourist-web2/static/css/main.d7fb3af6.css",
+    "main.js": "/tourist-web2/static/js/main.2330a9c3.js",
     "static/media/fa-solid-900.ttf": "/tourist-web2/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/tourist-web2/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/tourist-web2/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -11,11 +11,11 @@
     "static/media/fa-v4compatibility.ttf": "/tourist-web2/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/tourist-web2/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/tourist-web2/index.html",
-    "main.462f823f.css.map": "/tourist-web2/static/css/main.462f823f.css.map",
-    "main.af8ab86f.js.map": "/tourist-web2/static/js/main.af8ab86f.js.map"
+    "main.d7fb3af6.css.map": "/tourist-web2/static/css/main.d7fb3af6.css.map",
+    "main.2330a9c3.js.map": "/tourist-web2/static/js/main.2330a9c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.462f823f.css",
-    "static/js/main.af8ab86f.js"
+    "static/css/main.d7fb3af6.css",
+    "static/js/main.2330a9c3.js"
   ]
 }
