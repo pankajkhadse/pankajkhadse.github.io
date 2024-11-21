@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tourist-web2/static/css/main.462f823f.css",
-    "main.js": "/tourist-web2/static/js/main.9f7b35a6.js",
+    "main.js": "/tourist-web2/static/js/main.af8ab86f.js",
     "static/media/fa-solid-900.ttf": "/tourist-web2/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/tourist-web2/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/tourist-web2/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/tourist-web2/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/tourist-web2/index.html",
     "main.462f823f.css.map": "/tourist-web2/static/css/main.462f823f.css.map",
-    "main.9f7b35a6.js.map": "/tourist-web2/static/js/main.9f7b35a6.js.map"
+    "main.af8ab86f.js.map": "/tourist-web2/static/js/main.af8ab86f.js.map"
   },
   "entrypoints": [
     "static/css/main.462f823f.css",
-    "static/js/main.9f7b35a6.js"
+    "static/js/main.af8ab86f.js"
   ]
 }
